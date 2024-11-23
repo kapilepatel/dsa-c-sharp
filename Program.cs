@@ -4,4 +4,5 @@ Console.WriteLine("Hello, World!");
 
 
 //ArrTwoSum.Run(); 
-ArrBestTimeBuySell.Run();
+//ArrBestTimeBuySell.Run();
+ArrInsertInterval.Run();
