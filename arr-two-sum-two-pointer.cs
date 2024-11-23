@@ -45,7 +45,7 @@ The tests are generated such that there is exactly one solution.
 */
 
 
-public class TwoP
+public class ArrTwoSumTwoPointer
 {
     public static void Run()
     {
