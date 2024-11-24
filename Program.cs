@@ -5,4 +5,5 @@ Console.WriteLine("Hello, World!");
 //ArrBestTimeBuySell.Run();
 //ArrInsertInterval.Run();
 //ArrTwoSumTwoPointer.Run();
-ArrThreeSum.Run();
+//ArrThreeSum.Run();
+ArrProductSelf.Run();
