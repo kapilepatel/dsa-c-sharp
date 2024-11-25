@@ -6,4 +6,6 @@ Console.WriteLine("Hello, World!");
 //ArrInsertInterval.Run();
 //ArrTwoSumTwoPointer.Run();
 //ArrThreeSum.Run();
-ArrProductSelf.Run();
+//ArrProductSelf.Run();
+
+RecursionPrintBinary.Run();
