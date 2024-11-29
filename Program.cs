@@ -8,4 +8,7 @@ Console.WriteLine("Hello, World!");
 //ArrThreeSum.Run();
 //ArrProductSelf.Run();
 
-RecursionPrintBinary.Run();
+//RecursionPrintBinary.Run();
+
+//RecursionDiceRoll.Run();
+ArrCombinationSum.Run();
