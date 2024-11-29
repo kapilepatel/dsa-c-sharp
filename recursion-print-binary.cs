@@ -24,8 +24,6 @@ given n=3
 111
 */
 
-using System.Net.NetworkInformation;
-
 public class RecursionPrintBinary
 {
 
@@ -46,8 +44,6 @@ public class RecursionPrintBinary
         }
         PrintBinary(n-1, prefix+"0");
         PrintBinary(n-1, prefix+"1");
-
-
 
     }
 
