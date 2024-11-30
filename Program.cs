@@ -11,4 +11,5 @@ Console.WriteLine("Hello, World!");
 //RecursionPrintBinary.Run();
 
 //RecursionDiceRoll.Run();
-ArrCombinationSum.Run();
+//ArrCombinationSum.Run();
+SolutionArrMerge.Run();
