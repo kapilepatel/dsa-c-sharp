@@ -13,4 +13,5 @@ Console.WriteLine("Hello, World!");
 //RecursionDiceRoll.Run();
 //ArrCombinationSum.Run();
 //SolutionArrMerge.Run();
-SolutionArrMajorityElement.Run();
+//SolutionArrMajorityElement.Run();
+ArrSortColors.Run();
