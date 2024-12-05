@@ -14,4 +14,10 @@ Console.WriteLine("Hello, World!");
 //ArrCombinationSum.Run();
 //SolutionArrMerge.Run();
 //SolutionArrMajorityElement.Run();
-ArrSortColors.Run();
+//ArrSortColors.Run();
+//StrValidPalindrome.Run();
+//StrValidAnagram.Run();
+//StrLongestSubstring.Run();
+//StrReverseWord.Run();
+
+IntClosestZero.Run();
