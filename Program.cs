@@ -17,7 +17,7 @@ Console.WriteLine("Hello, World!");
 //ArrSortColors.Run();
 //StrValidPalindrome.Run();
 //StrValidAnagram.Run();
-//StrLongestSubstring.Run();
+StrLongestSubstring.Run();
 //StrReverseWord.Run();
 
-IntClosestZero.Run();
+//IntClosestZero.Run();
