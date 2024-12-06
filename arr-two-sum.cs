@@ -72,6 +72,7 @@ public static class ArrTwoSum {
     public static int[] TwoSumBruteForce(int[] nums, int target) {
         for(int i = 0; i < nums.Length; i++)
         {
+            //here we do i + 1 so we do not repeat the numbers
             for(int j = i + 1; j < nums.Length; j++)
             {
                 if(nums[i] + nums[j] == target )
