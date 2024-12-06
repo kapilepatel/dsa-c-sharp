@@ -20,6 +20,7 @@ Console.WriteLine("Hello, World!");
 //StrValidAnagram.Run();
 //StrLongestSubstring.Run();
 
-StrReverseWord.Run();
+//StrReverseWord.Run();
 
 //IntClosestZero.Run();
+StrLongestPalindrome.Run();
