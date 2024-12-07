@@ -25,4 +25,5 @@ Console.WriteLine("Hello, World!");
 //IntClosestZero.Run();
 //StrLongestPalindrome.Run();
 //StrAtoI.Run();
-MatrixSpiral.Run();
+//MatrixSpiral.Run();
+BinarySearch.Run();
