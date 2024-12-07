@@ -23,4 +23,5 @@ Console.WriteLine("Hello, World!");
 //StrReverseWord.Run();
 
 //IntClosestZero.Run();
-StrLongestPalindrome.Run();
+//StrLongestPalindrome.Run();
+StrAtoI.Run();
