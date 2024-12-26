@@ -84,7 +84,7 @@ public class TimeMap
 
     public void Set(string key, string value, int timestamp)
     {
-        SortedList<int, string> keyData;
+        SortedList<int, string>? keyData;
         if (data.TryGetValue(key, out keyData))
         {
             if (keyData.ContainsKey(timestamp))
@@ -106,7 +106,7 @@ public class TimeMap
 
     public string Get(string key, int timestamp)
     {
-        if (data.TryGetValue(key, out SortedList<int, string> keyData))
+        if (data.TryGetValue(key, out SortedList<int, string>? keyData))
         {
             int left = 0;
             int right = keyData.Keys.Count - 1;

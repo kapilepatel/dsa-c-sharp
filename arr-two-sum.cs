@@ -81,7 +81,7 @@ public static class ArrTwoSum {
                 }
             }
         }
-        return null;
+        return [];
     }
 
 
@@ -97,6 +97,6 @@ public static class ArrTwoSum {
                 map[nums[i]] = i;
             }
         }
-        return null;
+        return [];
     }
 }

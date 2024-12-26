@@ -81,6 +81,6 @@ public class ArrTwoSumTwoPointer
                 right--;
             }
         }
-        return null;
+        return [];
     }
 }

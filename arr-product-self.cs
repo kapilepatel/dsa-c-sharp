@@ -103,7 +103,7 @@ public class ArrProductSelf
 
     public static int[] ArrProductUsingDivision(int[] nums)
     {
-        if (nums.Length == 0) return null;
+        if (nums.Length == 0) return [];
         int[] result = new int[nums.Length];
         int totalProduct = 1;
         int zeroCount = 0;
